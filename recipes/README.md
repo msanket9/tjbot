@@ -1,6 +1,6 @@
 
 # Recipes
-Recipes are step by step instructions to help you connect your TJBot to [Watson](https://www.ibm.com/watson/products-services/).
+Recipes are step by step instructions to help you connect your TJBot to [IBM Watson](https://www.ibm.com/watson/products-services/).
 
 The recipes are designed to be run on a Raspberry Pi. You can either run one of our sample recipes below, or create your own recipe that brings your ideas to life using [Watson](https://www.ibm.com/watson/products-services/)!
 
